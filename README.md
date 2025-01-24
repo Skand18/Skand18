@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skand18&label=Profile%20views&color=0e75b6&style=flat" alt="skand18" /> </p>
 
-<p align="left"> <a href="https://twitter.com/skand_18" target="blank"><img src="https://img.shields.io/twitter/follow/skand_18?logo=twitter&style=for-the-badge" alt="skand_18" /></a> </p>
+<p align="left"> <a href="https://twitter.com/binarySmith18" target="blank"><img src="https://img.shields.io/twitter/follow/skand_18?logo=twitter&style=for-the-badge" alt="skand_18" /></a> </p>
 
 - 🔭 I’m currently woking on **Personal Projects**
 
