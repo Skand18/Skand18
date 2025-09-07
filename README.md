@@ -8,9 +8,9 @@
   
  - I am Skand , a programming enthusiast.
 
--  I’m currently woking as a Software Engineer at Baaz Bikes
+-  I’m currently woking as a SWE at Baaz Bikes
 
--  I have previously interned at Baaz Bikes, Digital Product School, Microsoft
+-  I have previously interned at Digital Product School, Microsoft
 
 -  How to reach me **skandk61@gmail.com**
 
