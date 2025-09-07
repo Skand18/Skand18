@@ -1,19 +1,20 @@
 
-<h1 align="center">Hi 👋, I'm Skand</h1>
-<h3 align="center">I am a MERN Stack developer </h3>
 <img align="right" alt="coding" width="500" src="https://media.tenor.com/cX92mi1p-NYAAAAd/coding-anime.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skand18&label=Profile%20views&color=0e75b6&style=flat" alt="skand18" /> </p>
 
 <p align="left"> <a href="https://twitter.com/binarySmith18" target="blank"><img src="https://img.shields.io/twitter/follow/skand_18?logo=twitter&style=for-the-badge" alt="skand_18" /></a> </p>
+   Hi there 👋
+  
+ - I am Skand , a programming enthusiast.
 
-- 🔭 I’m currently woking on **Personal Projects**
+-  I’m currently woking as a Software Engineer at Baaz Bikes
 
-- 🌱 I’m currently learning **Full Stack Web Development and DSA**
+-  I have previously interned at Baaz Bikes, Digital Product School, Microsoft
 
-- 📫 How to reach me **skandk61@gmail.com**
+-  How to reach me **skandk61@gmail.com**
 
-- ⚡ Fun fact **I am a football nerd**
+- Fun fact **I am a football nerd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
