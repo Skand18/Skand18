@@ -8,14 +8,11 @@
  - I am Skand , a programming enthusiast.
 -  I’m currently woking as a SWE at Baaz Bikes
 -  I have previously interned at Digital Product School, Microsoft
--  How to reach me **skandk61@gmail.com**
-- Fun fact **I am a football nerd**
+- I am a football nerd
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/binarySmith18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="skand_18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/skand kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="skand kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/skand_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="skand_18" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/skand kumar" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
