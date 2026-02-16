@@ -7,7 +7,7 @@
   
  - I am Skand , a programming enthusiast.
 -  I’m currently woking as a SWE at Baaz Bikes
--  I have previously interned at Digital Product School, Microsoft
+-  I have previously interned with Wurth , Microsoft
 - I am a football nerd
 
 <h3 align="left">Connect with me:</h3>
